@@ -237,7 +237,7 @@ define('up.mvc',[], function() {
     }(mymvc));
 
     mymvc.jq = mymvc.dom;
-    mymvc.$ = mymvc.dom;
+    mymvc.$ = mymvc.dom.get;
 
     //精简json  浏览器内置JSON对象
     mymvc.JSON = JSON;
