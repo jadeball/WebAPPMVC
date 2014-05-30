@@ -1,7 +1,7 @@
 WebAPP---MVC--
 ==============
 
-前端MVC框架 my.mvc.js 一个精简的前端框架 实现基本的前端路由 Dom选择器 ajax通信 简易模版引擎 URL解析 cookie工具
+前端MVC框架 up.mvc.js 一个精简的前端框架 实现基本的前端路由 Dom选择器 ajax通信 简易模版引擎 URL解析 cookie工具
 
 在此框架之上实现基本的移动端WebAPP应用
 
